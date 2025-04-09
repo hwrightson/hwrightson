@@ -1,13 +1,15 @@
-- ### Hello World! 👋 I'm Henry Wrightson.
+- ### Hello Hello Hello.
+
+_**Disclaimer:** I currently work using dedicated private infrastructure, using BitBucket as my git solution. This unfortunately means that my contributions are no longer being tracked on this page._
 
 #### 🌟 About Me:
-- **Profession:** Senior Data Scientist at the UK Government Digital Service.
-- **Expertise:** Specialising in Data Science, including Data Analysis, Visualization, Privacy, Statistical Analysis, Machine Learning (ML), Natural Language Processing (NLP), and more. Beyond technical skills, I'm passionate about People Management, Coaching, Mentoring, and Project Management.
+- **Profession:** Senior Consultant in Deloitte, member of the Engineering, AI and Data directorate within Defence, Security & Justice.
+- **Expertise:** I have 7+ years leading work in statistics and data science, delivering complex and innovative ML solutions and AI-powered digital services across the Public and Defence sectors. I enjoy developing and applying AI technologies to help organisations achieve strategic benefit, with particular interest in: Generative AI, Computer Vision, AI ethics, building and managing multidisciplinary teams, and scaling & deploying AI products on the cloud.
   
-#### 💼 Professional Snapshot:
-As a Senior Data Scientist, my career is rooted in statistics, programming, and ML. I'm currently engrossed in leveraging Large Language Models (LLMs) and NLP to tackle business challenges, always aiming to bridge the gap between complex data insights and stakeholder needs. My toolbox is filled with skills in stakeholder engagement, AI/ML development, and deploying solutions from conception to production. I'm deeply committed to promoting growth, both in technology and within teams.
-
 #### 🔧 Current Projects:
+- **Commercially sensitive**
+
+#### 🔧 Previous Projects:
 - **Custom RAG Applications:** Innovating with [Langchain](https://www.langchain.com/), [Huggingface](https://hf.co), and [OpenAI](https://openai.com).
 - **LLM Infrastructure Exploration:** Experimenting with AWS and GCP (Gemini, BQ ML, AWS Bedrock) to enhance our project capabilities.
 - **In-House NLP Pipeline Development and Maintenance:** 
@@ -19,5 +21,3 @@ As a Senior Data Scientist, my career is rooted in statistics, programming, and 
 - Explored innovative AI solutions at the [Anthropic London Hackathon](https://aifringe.org/events/anthropic-hackathon-london), toying with the context window of Claude 2 in an attempt to revolutionise NHS practices.
 
 ---
-
-**Let's Connect!** If you're interested in Data Science, AI, ML, or just want to chat, feel free to reach out. I'm always open to discussing new projects, opportunities, or collaborations.
